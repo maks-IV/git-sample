@@ -1,1 +1,2 @@
 <h1>Hello Git! ddpaMAKS</h1>
+<p>some info</p>
