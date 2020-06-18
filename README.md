@@ -2,3 +2,4 @@
 Git-sample repository
 asdsaasd
 sdes
+STASH
